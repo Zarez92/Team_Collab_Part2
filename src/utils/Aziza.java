@@ -7,4 +7,5 @@ public class Aziza {
     //created aziza class
 
     // problem solved
+
 }
