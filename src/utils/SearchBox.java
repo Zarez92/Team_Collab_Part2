@@ -6,4 +6,6 @@ public class SearchBox {
 
     }
      // add new method
+
+    // make changes
 }
